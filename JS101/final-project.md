@@ -40,6 +40,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 
 - Add your solution below this line!
 
+- [walnutdust's solution](https://github.com/walnutdust/calculator) - [View in Browser](https://walnutdust.github.io/calculator/)
 - [Javier Machin's solution](https://github.com/Javier-Machin/Calculator) - [View in Browser](https://javier-machin.github.io/Calculator/)
 - [Calvin's solution](https://github.com/Calyeefornia/Calculator) - [View in Browser](https://calyeefornia.github.io/Calculator/)
 - [Nate Dimock's solution](https://github.com/Flakari/calculator) - [View in Browser](https://flakari.github.io/calculator/)
